@@ -78,3 +78,11 @@ Depois disso, o jogador deve chegar até a saída para finalizar o jogo.
 ## 📌 Status
 
 🚧 **Projeto em desenvolvimento.**
+
+
+
+## Anexos:
+| **Link do Trello:** https://trello.com/invite/b/6a99efa1bc0ba7766566dcf9/ATTI9fdd42898827a53c75effbdee9083b71BA91C41C/projeto-integrador-entregas-fds |
+| **Link do Storyboard:** https://www.figma.com/board/JTUYRm6xjSIZ3urufAs8md/Storyboard-Lo-Fi---FDS?node-id=0-1&t=cuSot0hMRmt0hTVe-1  |
+| **Link do Diagrama de Atividades:** https://www.figma.com/board/ECGOhLU5rYH2vMqNarHMec/Diagramas-de-atividades---FDS?node-id=0-1&t=BlvkjLJRDSCLj1GP-1 |
+
